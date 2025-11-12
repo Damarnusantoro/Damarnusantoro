@@ -35,23 +35,13 @@ Currently, I’m focusing on:
 ## 📊 GitHub Stats
 
 ![Damarnusantoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamarNusantoro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamarNusantoro&layout=compact&theme=radical)
 
 ---
 
 ## 🧠 Featured Projects
 
-🔹 **Piezoelectric Power Generator**  
-A simple setup using a piezoelectric element to convert kinetic vibration into electrical energy.  
-*Technologies:* Arduino, Bridge Rectifier, Capacitor, DC Load
 
-🔹 **RC Circuit Time Constant Analysis**  
-A study of RC filters and their frequency response using Python and experimental data.  
-*Focus:* Signal processing and data fitting
-
-🔹 **Bio-Pesticide Research (PKM-Riset)**  
-Developing eco-friendly bio-pesticides from tobacco waste to control rice pests.  
-*Field:* Applied Physics & Environmental Science  
 
 ---
 
