@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi there, I'm Damar Nusantoro!
 
-<!--
-**Damarnusantoro/Damarnusantoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Physics Student | Research Enthusiast | Embedded Systems Learner**
 
-Here are some ideas to get you started:
+I'm passionate about exploring the intersection between **physics, electronics, and data-driven technologies**.  
+Currently, I’m focusing on:
+- 🧠 Computational and Experimental Physics  
+- ⚡ Electrical & Magnetic Systems (DC motors, piezoelectric generators, RC circuits)  
+- 🔬 Scientific Research & Data Analysis using Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 About Me
+
+- 🔭 I’m currently working on **applied physics and instrumentation projects**
+- 🌱 I’m learning more about **Arduino, MATLAB, Python, and C++**
+- 🧪 I enjoy doing **DIY experiments** that blend physics and engineering
+- 📍 Based in **Jember, Indonesia**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` `C++` `MATLAB` `HTML` `CSS` `JavaScript`
+
+**Tools & Frameworks:**  
+`Arduino IDE` `VS Code` `Git` `Jupyter Notebook` `Proteus` `Multisim`
+
+**Research Skills:**  
+`Data Processing` `Numerical Analysis` `Modeling` `Experimental Design`
+
+---
+
+## 📊 GitHub Stats
+
+![Damarnusantoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+## 🧠 Featured Projects
+
+🔹 **Piezoelectric Power Generator**  
+A simple setup using a piezoelectric element to convert kinetic vibration into electrical energy.  
+*Technologies:* Arduino, Bridge Rectifier, Capacitor, DC Load
+
+🔹 **RC Circuit Time Constant Analysis**  
+A study of RC filters and their frequency response using Python and experimental data.  
+*Focus:* Signal processing and data fitting
+
+🔹 **Bio-Pesticide Research (PKM-Riset)**  
+Developing eco-friendly bio-pesticides from tobacco waste to control rice pests.  
+*Field:* Applied Physics & Environmental Science  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/damarnusantoro)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damarnusantoro1936@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Damarnusantoro)
+
+---
+
+⭐ *"Curiosity drives discovery — every experiment is a new question waiting to be answered."*
