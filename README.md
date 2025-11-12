@@ -5,7 +5,7 @@
 I'm passionate about exploring the intersection between **physics, electronics, and data-driven technologies**.  
 Currently, I’m focusing on:
 - 🧠 Computational and Experimental Physics  
-- ⚡ Electrical & Magnetic Systems (DC motors, piezoelectric generators, RC circuits)  
+- ⚡ Electrical & Instrumentation  
 - 🔬 Scientific Research & Data Analysis using Python  
 
 ---
@@ -34,7 +34,7 @@ Currently, I’m focusing on:
 
 ## 📊 GitHub Stats
 
-![Damarnusantoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Damarnusantoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamarNusantoro&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ---
